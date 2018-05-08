@@ -35,4 +35,5 @@ Will return prime numbers starting from 1 and upto and including 23 as JSON outp
 http://localhost:8080/primes/23?mediaType=xml
 Will return prime numbers starting from 1 and upto and including 23 as xml output
 
-
+## Caching
+Caching is available at the RestController method request mapping level, using @Cacheable annotation.
