@@ -1,5 +1,5 @@
 /**
- * 
+ * Spring Boot Config Classes
  */
 /**
  * @author arthi.shridharan

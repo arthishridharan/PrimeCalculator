@@ -1,5 +1,5 @@
 /**
- * 
+ * Prime Calculator Service Interfaces
  */
 /**
  * @author arthi.shridharan

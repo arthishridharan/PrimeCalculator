@@ -15,6 +15,11 @@ import org.junit.runners.Parameterized.Parameters;
 import com.arthi.prime.calculator.bean.Primes;
 import com.arthi.prime.calculator.service.PrimeNumbersCalculatorService;
 
+/**
+ * Unit tests for PrimeNumbersCalculatorServiceImpl
+ * @author arthi.shridharan
+ *
+ */
 @RunWith(Parameterized.class)
 public class PrimeNumbersCalculatorServiceImplTest {
 

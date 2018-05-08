@@ -1,5 +1,5 @@
 /**
- * 
+ * Spring Boot app base classes
  */
 /**
  * @author arthi.shridharan

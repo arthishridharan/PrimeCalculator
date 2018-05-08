@@ -1,5 +1,5 @@
 /**
- * 
+ * Prime Calculator Beans
  */
 /**
  * @author arthi.shridharan

@@ -25,6 +25,11 @@ public class PrimeNumbersCalculatorServiceImpl implements PrimeNumbersCalculator
         return primes;
     }
     
+    /**
+     * Method to test if a number is a prime number
+     * @param number number under test
+     * @return result of prime test
+     */
     private boolean isPrime(Integer number) {
         return IntStream.rangeClosed(2, number/2).noneMatch(i -> number%i == 0);
     }

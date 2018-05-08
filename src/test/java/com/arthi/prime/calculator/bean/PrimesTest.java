@@ -11,7 +11,11 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
-
+/**
+ * Unit tests for Primes class
+ * @author arthi.shridharan
+ *
+ */
 @RunWith(Parameterized.class)
 public class PrimesTest {
     
