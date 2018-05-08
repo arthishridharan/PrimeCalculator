@@ -12,6 +12,10 @@ Project to calculate series of prime numbers upto and including given initial in
 2. clean and build project using gradle commands
 3. Run project as a spring boot application
 
+## Gradle outputs
+1. gradle jacocoTestReport - will produce code coverage reports under build\reports\jacoco\test\html
+2. gradle javadoc - will produce javadocs under build\docs\javadoc
+
 ## Test project from URL using following:
 1. Using path extension
 * For JSON output
