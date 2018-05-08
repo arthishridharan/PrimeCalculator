@@ -1,0 +1,14 @@
+
+*.bat
+gradlew
+*.class
+settings.gradle
+.project
+*.prefs
+*.jar
+*.MF
+gradle/wrapper/gradle-wrapper.properties
+*.bin
+*.lock
+.gradle/vcsWorkingDirs/gc.properties
+.classpath
